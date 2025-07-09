@@ -1,6 +1,4 @@
-# Project 2 - *Wordle*
-
-Submitted by: **Sehr Abrar**
+# Wordle
 
 **Wordle** is a guessing game app where players try to guess a hidden five-letter word within six attempts. The app features a custom on-screen keyboard that users tap to input letters, shows feedback on guessed letters’ correctness, and selects a different goal word every time the game starts to keep the experience fresh.
 
